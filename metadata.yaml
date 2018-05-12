@@ -1,0 +1,29 @@
+_repo: The-City-of-the-Mormonsor-Three-Days-at-Nauvoo-in-1842_36486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caswall, Henry
+    alias: Caswell, Henry
+    birthdate: 1810
+    deathdate: 1870
+    gutenberg_agent_id: '38298'
+    url: http://www.gutenberg.org/2009/agents/38298
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2011-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F516'
+- !lcsh 'Nauvoo (Ill.)'
+- !lcsh 'Mormons -- Illinois'
+title: The City of the Mormons; or, Three Days at Nauvoo, in 1842
+url: http://www.gutenberg.org/ebooks/36486
